@@ -1,1 +1,1 @@
-# mlops-quarkus
+# mlops-java
